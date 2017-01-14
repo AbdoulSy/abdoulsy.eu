@@ -1,0 +1,26 @@
+{
+  "name": "abdoulsy.eu",
+  "version": "1.0.0",
+  "description": "My Own Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbdoulSy/abdoulsy.eu.git"
+  },
+  "keywords": [
+    "Website",
+    "React",
+    "Redux-Observable",
+    "Three.js",
+    "D3.js"
+  ],
+  "author": "Abdoul Sy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdoulSy/abdoulsy.eu/issues"
+  },
+  "homepage": "https://github.com/AbdoulSy/abdoulsy.eu#readme"
+}
